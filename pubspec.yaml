@@ -47,6 +47,7 @@ flutter:
     - assets/icons/coins.svg
     - assets/icons/changetech.png
     - assets/icons/uparzon_store_white.svg
+    - assets/icons/cart.svg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -63,6 +64,7 @@ flutter:
   #   - family: Schyler
   #     fonts:
   #       - asset: fonts/Schyler-Regular.ttf
+
   #       - asset: fonts/Schyler-Italic.ttf
   #         style: italic
   #   - family: Trajan Pro
